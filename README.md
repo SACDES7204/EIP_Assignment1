@@ -1,4 +1,4 @@
-#Value of print(score) is : 99.09 %
+Value of print(score) is : 99.09 %
 
 Definations
 
